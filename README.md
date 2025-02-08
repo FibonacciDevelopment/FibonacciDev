@@ -1,5 +1,23 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy ALan (Fibonacci)
 
+## 🚀 Sobre Mí
+Soy un apasionado del **desarrollo de software** y la **seguridad digital**.
+
+También estoy explorando el mundo del **emprendimiento**, con proyectos en diversas áreas.
+
+---
+
+## 📈 En Qué Estoy Trabajando Ahora
+✅ Explorando nuevas oportunidades de desarrollo.  
+✅ Mejorando mis habilidades en **GitHub Flow** y organización de proyectos.  
+
+---
+
+## 📬 Contáctame
+📩 fobonacci.design@outlook.com 
+
+
+🚀 Siempre abierto a nuevas oportunidades y colaboraciones. ¡Hablemos! 😊
 <!--
 **FibonacciDesign/FibonacciDesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
