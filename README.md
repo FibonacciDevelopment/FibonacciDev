@@ -14,7 +14,7 @@ También estoy explorando el mundo del **emprendimiento**, con proyectos en dive
 ---
 
 ## 📬 Contáctame
-📩 fobonacci.design@outlook.com 
+📩 contacto@fibonaccidev.com
 
 
 🚀 Siempre abierto a nuevas oportunidades y colaboraciones. ¡Hablemos! 😊
